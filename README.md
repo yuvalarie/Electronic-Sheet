@@ -11,6 +11,7 @@ Dependencies:
 1. numpy==1.26.4
 2. pandas==2.2.1
 3. matplotlib==3.8.3
+* the rest of the dependencies are listed in the requirements file.
 
 How to Use the Electronic Sheet Program:
 This program allows users to manage and manipulate spreadsheet-like data, offering the ability to add, update, calculate, and save data in multiple formats.
